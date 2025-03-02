@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Felipe de Castro Fonseca
+- Matricula: 885857
 
-## Print da tela da página criad
+## Print da tela da página criada
+![alt text](<curriculum-vitae.png>)
